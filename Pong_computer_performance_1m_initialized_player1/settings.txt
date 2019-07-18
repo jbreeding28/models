@@ -1,0 +1,8 @@
+Environment: PongNoFrameskip-v4
+Training multiplayer: false
+Playing multiplayer: false
+Training mode: 1
+Playing mode: 1
+Full training steps: 1000000
+Pause training interval: 200000
+Number of games every pause: 200
